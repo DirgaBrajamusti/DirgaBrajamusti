@@ -1,4 +1,6 @@
-## Hi there, I'm [Dirga Brajamusti][website] 👋
+### Hi there, I'm [Dirga Brajamusti][website] 👋
+
+[<img align="left" alt="dirgabrajamusti.xyz" src="https://img.shields.io/website?label=dirgabrajamusti.xyz&style=for-the-badge&url=https://dirgabrajamusti.xyz)" />][website]
 
 ## I'm a Student, Developer, and Tech Enthusiast!
 
@@ -8,16 +10,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="dirgabrajamusti.xyz" src="https://img.shields.io/website?label=dirgabrajamusti.xyz&style=for-the-badge&url=https://dirgabrajamusti.xyz)" />][website]
 [<img align="left" alt="DirgaBrajamusti | YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img align="left" alt="DirgaBrajamusti | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="DirgaBrajamusti | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="DirgaBrajamusti | Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
-[<img align="left" alt="DirgaBrajamusti | Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />][steam]
 
 <br />
-<br />
-<br />
+
 ### Languages:
 
 <img align="left" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
