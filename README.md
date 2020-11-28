@@ -1,4 +1,4 @@
-### Hi there, I'm [Dirga Brajamusti][website] 👋
+## Hi there, I'm [Dirga Brajamusti][website] 👋
 
 ## I'm a Student, Developer, and Tech Enthusiast!
 
@@ -8,10 +8,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="dirgabrajamusti.xyz" width="22px" src="https://img.shields.io/website?label=dirgabrajamusti.xyz&style=for-the-badge&url=https://dirgabrajamusti.xyz)" />][website]
-[<img align="left" alt="DirgaBrajamusti | YouTube" width="22px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
-[<img align="left" alt="DirgaBrajamusti | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="DirgaBrajamusti | Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="dirgabrajamusti.xyz" src="https://img.shields.io/website?label=dirgabrajamusti.xyz&style=for-the-badge&url=https://dirgabrajamusti.xyz)" />][website]
+[<img align="left" alt="DirgaBrajamusti | YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
+[<img align="left" alt="DirgaBrajamusti | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="DirgaBrajamusti | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="DirgaBrajamusti | Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
+[<img align="left" alt="DirgaBrajamusti | Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />][steam]
 
 <br />
 
@@ -28,3 +30,5 @@
 [youtube]: https://www.youtube.com/c/DirgaBrajamusti
 [instagram]: https://instagram.com/dirga_brajamusti
 [linkedin]: https://www.linkedin.com/in/dirga-brajamusti
+[discord]: https://discordapp.com/users/160784157826482177
+[steam]: https://steamcommunity.com/id/FrostedSakura/
