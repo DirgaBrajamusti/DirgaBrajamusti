@@ -1,6 +1,6 @@
 ### Hi there, I'm [Dirga Brajamusti][website] 👋
 
-[<img align="left" alt="dirgabrajamusti.xyz" src="https://img.shields.io/website?label=dirgabrajamusti.xyz&style=for-the-badge&url=https://dirgabrajamusti.xyz)" />][website]
+[![Website](https://img.shields.io/website?label=dirgabrajamusti.xyz&style=for-the-badge&url=https://dirgabrajamusti.xyz)](https://dirgabrajamusti.xyz)
 
 ## I'm a Student, Developer, and Tech Enthusiast!
 
