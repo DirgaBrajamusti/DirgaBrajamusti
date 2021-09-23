@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=dirgabrajamusti.my.id&style=for-the-badge&url=https://dirgabrajamusti.my.id)](https://dirgabrajamusti.my.id)
 
-## I'm a Student, Developer, and Tech Enthusiast!
+## I'm a Developer, and Tech Enthusiast!
 
 - 🔭 I’m currently working on my internship project
 - 🌱 I’m currently learning everything 🤣
