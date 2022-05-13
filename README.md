@@ -1,10 +1,9 @@
 ### Hi there, I'm [Dirga Brajamusti][website] 👋
 
-[![Website](https://img.shields.io/website?label=dirgabrajamusti.xyz&style=for-the-badge&url=https://dirgabrajamusti.xyz)](https://dirgabrajamusti.xyz)
+[![Website](https://img.shields.io/website?label=dirgabrajamusti.xyz&style=for-the-badge&url=https://dirgabrajamusti.my.id)](https://dirgabrajamusti.my.id)
 
-## I'm a Student, Developer, and Tech Enthusiast!
+## I'm a Developer, and Tech Enthusiast!
 
-- 🔭 I’m currently working on my internship project
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to automate everything
 
@@ -26,7 +25,7 @@
 <img align="left" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 
-[website]: https://dirgabrajamusti.xyz
+[website]: https://dirgabrajamusti.my.id
 [youtube]: https://www.youtube.com/c/DirgaBrajamusti
 [instagram]: https://instagram.com/dirga_brajamusti
 [linkedin]: https://www.linkedin.com/in/dirga-brajamusti
