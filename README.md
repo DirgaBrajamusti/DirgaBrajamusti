@@ -4,7 +4,6 @@
 
 ## I'm a Developer, and Tech Enthusiast!
 
-- 🔭 I’m currently working on my internship project
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to automate everything
 
